@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\hooks",
+    "\\src\\images",
+    "\\src\\pages",
+    "\\src\\pages\\pensieve",
+    "\\src\\styles",
+    "\\src\\templates",
+    "\\src\\utils",
+    "\\static"
+  ],
+  "SelectedNode": "\\.husky",
+  "PreviewInSolutionExplorer": false
+}

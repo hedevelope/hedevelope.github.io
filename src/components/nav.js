@@ -8,15 +8,6 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection, usePrefersReducedMotion } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
-import mixpanel from 'mixpanel-browser';
-
-mixpanel.init("948003552b5b41e2eed62cabd9916d5e" , {
-  debug: true
-})
-
-let butonClick =(e) => {
-  mixpanel.track("Resume clicked.")
-}
 
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};

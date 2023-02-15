@@ -1,6 +1,6 @@
 ---
 date: '2018-08-08'
-title: 'WS'
+title: 'Whatsapp Sticker'
 github: ''
 external: 'Whatsapp Stickers'
 tech:
@@ -8,3 +8,5 @@ tech:
 company: 'FridayTeam'
 showInProjects: true
 ---
+
+Whatsapp Stickers extension for WhatsApp. Available on Google Play Store.

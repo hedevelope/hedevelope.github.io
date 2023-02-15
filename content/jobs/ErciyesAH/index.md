@@ -1,7 +1,7 @@
 ---
 date: '2019-07-14'
 title: 'Intern'
-company: 'Erciyes Anadolu Holding'
+company: 'E.A.H'
 location: 'Kayseri, OSB'
 range: 'July - Sep 2019'
 url: 'https://www.erciyesanadolu.com/'

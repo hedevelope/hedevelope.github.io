@@ -1,7 +1,7 @@
 ---
 date: '2021-12-21'
 title: 'UI Engineer and Co-Founder'
-company: 'Anonymous NFT Project'
+company: 'NFT Project'
 location: 'World'
 range: 'Nov 2021 - Present '
 url: '#'

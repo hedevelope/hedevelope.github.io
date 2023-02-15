@@ -1,14 +1,10 @@
 ---
-date: '2022-08-08'
-title: 'Pratt'
+date: '2018-08-08'
+title: 'WS'
 github: ''
-external: 'https://www.pratt.edu/'
+external: 'Whatsapp Stickers'
 tech:
-  - WordPress
-  - Timber
-  - WordPress Multisite
-  - Gutenberg
-  - JS
-company: 'Upstatement'
-showInProjects: false
+  - ReactNative
+company: 'FridayTeam'
+showInProjects: true
 ---

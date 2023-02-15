@@ -12,9 +12,9 @@
   ],
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
-  "engines" : { 
-    "npm" : "6.14.11",
-    "node" : "14.16.0"
+  "engines": {
+    "npm": "6.14.11",
+    "node": "14.16.0"
   },
   "scripts": {
     "build": "gatsby build",
@@ -55,6 +55,7 @@
     "gatsby-transformer-remark": "^4.1.0",
     "gatsby-transformer-sharp": "^3.4.0",
     "lodash": "^4.17.19",
+    "mixpanel-browser": "^2.45.0",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",

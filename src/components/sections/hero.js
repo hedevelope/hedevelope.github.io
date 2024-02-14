@@ -65,8 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building websites, and improving blockchain based NFT projects.
+      "I am a Software Engineer with a knack for crafting exceptional digital experiences, 
+      both in design and development. My current emphasis lies in website development and enhancing 
+      blockchain-driven NFT projects. Moreover, 
+      I specialize in front-end development and am actively creating AR-VR applications at Portalium."
       </p>
     </>
   );

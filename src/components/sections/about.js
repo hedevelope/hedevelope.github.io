@@ -135,22 +135,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Batuhan and I enjoy creating things with codes. My
-              interest in web development but especially designing, started back in 2015 when I decided to try free website builder and also editing custom
-              Websites and their themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Greetings! I'm Batuhan. My passion lies in sculpting digital solutions using code. 
+            My journey into web development, with a special fondness for design, began in 2015. 
+            An initial experiment with a free website builder evolved into a deep dive into custom website and theme modifications. 
+            Along the way, crafting a custom reblog button became my gateway to mastering HTML, CSS, and JavaScript.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of doing internship at{' '}
-              <a href="https://www.erciyesanadolu.com/">a furniture company</a>,{' '}and designer of anonymous 
-              <a href="#">NFT Project</a>.{' '}
-              My
-              main focus these days is working as a Freelancer, Managing NFT community as a CM role on servers and their Websites.
+            Fast-forward to today, I've had the distinct honor of undertaking an internship at a{' '}
+              <a href="https://www.erciyesanadolu.com/">furniture company</a>,and contributing as a designer to an anonymous 
+              {' '}<a href="#"> NFT Project</a>.
+              While my journey saw me freelancing and 
+            managing NFT communities as a Community Manager, I've since transitioned.
             </p>
 
             <p>
-              I also plan to focus Virtual Reality systems next weeks.
+            My current passion is honed in on front-end development, 
+            and I'm actively engaged in AR-VR development with a great team at start-up {' '}<a href="https://www.linkedin.com/company/portalium/">Portalium</a>. And also working at
+            {' '}<a href="https://papara.com">Papara</a>
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Batuhan Can',
+        name: 'Batuhan Karamemiş',
         short_name: 'Batuhan Can',
         start_url: '/',
         background_color: config.colors.darkNavy,
